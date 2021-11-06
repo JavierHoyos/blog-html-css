@@ -40,6 +40,28 @@ section .post:hover{
 section .post h2,
 section .post p{
     margin: 1rem;
-{
+}
 
+footer {
+    background-color: #222;
+    padding: 3rem;
+    color: white;
+}
+
+footer section{
+    float: right;
+}
+
+footer p{
+    margin: 0;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover{
+    color: cornflowerblue;
 }
