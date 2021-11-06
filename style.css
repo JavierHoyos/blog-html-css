@@ -17,3 +17,8 @@ header h1{
     text-align: center;
     font-size: 4rem;
 }
+
+.container{
+    width: 400px;
+    margin: 0 auto;
+}
