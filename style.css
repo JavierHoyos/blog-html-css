@@ -29,3 +29,11 @@ section .post{
     border-radius: 0.5rem;
     padding: 0.25rem 0;
 }
+
+
+section .post h2,
+section .post p{
+    margin: 1rem;
+{
+
+}
